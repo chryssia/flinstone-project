@@ -1,0 +1,14 @@
+{"pengguna":
+	{'nama':'Badu',
+	'email':'badu@malang.gov.id',
+	'role': 'SKPD Kebersihan',
+	'desa': 'kulonprogo',
+	'alamat' : 'ku lon progo 1 no 19'
+	},
+	{'nama':'Susi',
+	'email':'susi@malang.gov.id',
+	'role': 'SKPD Ketertiban Lalu Lintas',
+	'desa': 'malang indah',
+	'alamat' : 'malang indah 1 no 19'
+	}
+}
